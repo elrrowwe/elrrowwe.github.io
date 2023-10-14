@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Fira Code', monospace;
-  background-color: #2d4168;
+  background-color: #213254;
   color: #ECEFF4;
 }
 
@@ -14,6 +14,11 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: #81A1C1;
 }
+
+p {
+    margin: 20px 0;
+    word-wrap: break-word;
+  }
 
 button {
   background-color: #91b2dc;
